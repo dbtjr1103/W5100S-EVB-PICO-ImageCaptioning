@@ -30,29 +30,19 @@ BLIP-2 is a part of Salesforce's LAVIS project. BLIP-2 is a generic and efficien
 [Official GitHub](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
   
 
-## Installation Guide
+## Installation and How to Use
 
-Steps to install and set up this project on a local environment:
-
-1. Install necessary libraries and dependencies.
-2. Set up and connect the W5100S-EVB-PICO board.
+in progress
 
 
-## How to Use
 
-1. Connect and configure the Arducam.
-2. Set up the Ethernet connection.
-3. Communicate between the PICO board and web server.
-4. View results and display captions.
+## Outputs
 
-## Demos and Outputs
+![image](https://github.com/dbtjr1103/W5100S-EVB-PICO-ImageCaptioning/assets/115054808/ba67ff4a-165a-42aa-ae7d-bbc36020d29b)
 
-Links to demonstrations and examples of project results:
+![image](https://github.com/dbtjr1103/W5100S-EVB-PICO-ImageCaptioning/assets/115054808/9ae158fd-2eee-489d-ac73-2792e02c3d0d)
 
-- [Demo Video Link](#)
-- Screenshots and case examples of results.
 
-  
 ## Potential Developments
 
 The current focus of this project is on captioning an image and displaying the text. However, by adding speakers in the future, this could evolve into applications for the visually impaired or anomaly detection, among various other project ideas.
@@ -60,3 +50,7 @@ The current focus of this project is on captioning an image and displaying the t
 ## Contributions and Feedback
 
 Contributions and feedback on the project are always welcome. Please use the GitHub issue tracker to report issues or create pull requests.
+
+## Original link
+
+[WIZnet maker site](https://maker.wiznet.io/Benjamin/projects/translating-visuals-into-words%3A-image-captioning-with-ai/?serob=4&serterm=month)
