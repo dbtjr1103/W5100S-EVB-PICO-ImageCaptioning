@@ -5,9 +5,11 @@
 In this project, we are using two W5100S-EVB-PICO boards.
 
 1.The first board connects an Arducam and Ethernet to serve the role of transmitting a picture to a web page upon receiving a web request.
+
 ![image](https://github.com/dbtjr1103/W5100S-EVB-PICO-ImageCaptioning/assets/115054808/d8921838-cfed-4157-ab0b-ed93ded69172)
 
 2.The second board will perform image-to-text captioning via the "Replicate API" in the form of a web address serving images from the first PICO board over an Ethernet connection and display them on the ssd1306 OLED screen.
+
 ![image](https://github.com/dbtjr1103/W5100S-EVB-PICO-ImageCaptioning/assets/115054808/71c9cca9-484c-4927-896a-577ff6c80bb8)
 
 
