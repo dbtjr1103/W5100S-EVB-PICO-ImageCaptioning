@@ -18,9 +18,11 @@ Discuss this in more detail below.
 ## Model used for image captioning 
 
 BLIP-2 is a part of Salesforce's LAVIS project. BLIP-2 is a generic and efficient pre-training strategy that leverages the advancements of pretrained vision models and large language models (LLMs). BLIP-2 surpasses Flamingo in zero-shot VQAv2 (scoring 65.0 vs 56.3) and sets a new state-of-the-art in zero-shot captioning (achieving a CIDEr score of 121.6 on NoCaps compared to the previous best of 113.2). When paired with powerful LLMs such as OPT and FlanT5, BLIP-2 unveils new zero-shot instructed vision-to-language generation capabilities for a range of intriguing applications.
+
 ![image](https://github.com/dbtjr1103/W5100S-EVB-PICO-ImageCaptioning/assets/115054808/424c38c5-62f4-48fb-8cbc-565dfafbcffe)
 
 [Model testable on Replicate](https://replicate.com/andreasjansson/blip-2)
+
 ![image](https://github.com/dbtjr1103/W5100S-EVB-PICO-ImageCaptioning/assets/115054808/8bd98582-f653-4169-8124-f485d8cdfb1d)
 
 [Research paper on the model](https://arxiv.org/abs/2301.12597)
